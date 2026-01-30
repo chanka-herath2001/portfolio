@@ -3,16 +3,16 @@ export const myProjects = [
     id: 1,
     title: "Cross-Domain Music–Movie Recommendation System",
     description:
-      "Links Spotify listening habits to movie preferences using multimodal emotion analysis.",
+      "Links user's music listening habits to movie preferences using multimodal emotion analysis.",
     subDescription: [
       "Lyrics classifier with DistilBERT and a custom audio model (Librosa + MLP).",
       "Fusion/ensemble for higher accuracy and explainable outputs (emotion vectors, similarity).",
       "FastAPI/Flask backend with React/Vite frontend and Spotify OAuth.",
       "User surveys and evaluation demonstrated high personalization and accuracy.",
     ],
-    href: "",
+    href: "https://moodflix.site/",
     logo: "",
-    image: "/assets/projects/Personal.png",
+    image: "/assets/projects/moodflix.png",
     tags: [
       { id: 1, name: "React", path: "/assets/logos/react.svg" },
       { id: 2, name: "Flask", path: "/assets/logos/flask.png" },
