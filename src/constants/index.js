@@ -21,6 +21,22 @@ export const myProjects = [
     ],
   },
   {
+    id: 10,
+    title: "Monster Island - Survivors Game",
+    description:
+      "Simple survivors style game made on godot",
+    subDescription: [
+      "",
+    ],
+    href: "https://orionpax140209.itch.io/monster-island",
+    logo: "",
+    image: "/assets/projects/mosnter-island.png",
+    tags: [
+      { id: 1, name: "Godot", path: "/assets/logos/godot.png" },
+     
+    ],
+  },
+  {
     id: 2,
     title: "SYOS Supermarket Billing System",
     description:
