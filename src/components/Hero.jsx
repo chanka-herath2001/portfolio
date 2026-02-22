@@ -36,7 +36,7 @@ const Hero = () => {
             <i className="bx bx-link-external" />
           </a> */}
           <a
-            href="https://drive.google.com/file/d/1Nra5PxjfVfzpyl0sAn9PXF1GtPnWiEM6/view?usp=sharing"
+            href="https://drive.google.com/file/d/1i1Wo1e8FJjUCjptH8WIuqwMElAoEMipV/view?usp=sharing"
             target='_blank'
             className="border border-[#2a2a2a] py-2 sm:py-3 px-4 sm:px-5 rounded-full sm:text-lg text-sm font-semibold tracking-wider transition-all duration-300 hover:bg-[#1a1a1a] bg-gray-300 text-black hover:text-white"
           >
