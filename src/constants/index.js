@@ -1,5 +1,22 @@
 export const myProjects = [
   {
+    id: 11,
+    title: "ENOTH Website - Startup Fashion Brand Website",
+    description:
+      "Website made for an upcoming fashion startup brand, showcasing a modern UI and integrated payment processing using Stripe.",
+    subDescription: [
+      "This is a mock website designed for a fashion startup brand, featuring a modern UI and integrated payment processing using Stripe. The site showcases the full shopping experience, though it is currently a non-functional prototype created for demonstration purposes.",
+    ],
+    href: "https://enoth.vercel.app",
+    logo: "/assets/logos/enoth_logo_no_text.jpeg",
+    image: "/ui/enoth.png",
+    tags: [
+      { id: 1, name: "React", path: "/assets/logos/react.svg" },
+      { id: 2, name: "Node.js", path: "/assets/logos/node.svg" },
+      { id: 3, name: "Stripe", path: "/assets/logos/stripe.svg" },
+    ],
+  },
+  {
     id: 1,
     title: "Cross-Domain Music–Movie Recommendation System",
     description:
@@ -166,7 +183,7 @@ export const myProjects = [
       "Colorful category tiles (Gaming Merch, Design Your Space, Lifestyle Gifts) with clear CTA links.",
       "Detailed footer with international links, payment methods, QR, and policy navigation.",
     ],
-    href: "",
+    href: "https://www.linkedin.com/posts/chanka-herath_excited-to-share-my-latest-design-project-ugcPost-7209394545745174531-bXbp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD86VQMBYOhxtoMFxxZKdFOXJNC9aVMWS30",
     logo: "",
     image: "/ui/NexaMarket_thumbnail.jpg",
     tags: [{ id: 1, name: "Figma", path: "/assets/logos/figma.svg" }],
@@ -182,7 +199,7 @@ export const myProjects = [
       "Promo cards for weekly deals, new items, and discounts to drive conversion.",
       "Consistent brand colors, strong contrast, and accessible type scale for readability.",
     ],
-    href: "",
+    href: "https://www.linkedin.com/posts/chanka-herath_thrilled-to-share-my-latest-uiux-design-ugcPost-7212044443674165248-ROQv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD86VQMBYOhxtoMFxxZKdFOXJNC9aVMWS30",
     logo: "",
     image: "/ui/Pizzaria poster.jpg",
     tags: [
