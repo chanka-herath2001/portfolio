@@ -18,7 +18,7 @@ const About = () => {
           <div className="z-10">
             <p className="headtext">Hi, I'm Chanka</p>
             <p className="subtext">
-              a Software Engineering undergraduate skilled in frontend development, UI/UX design, and cloud solutions. I love building creative, user-focused applications that blend technology and design.
+              a Software Engineer skilled in frontend development, UI/UX design, and cloud solutions. I love building creative, user-focused applications that blend technology and design.
             </p>
           </div>
           <div className="absolute inset-x-0 pointer-events-none -bottom-4 h-1/2 sm:h-1/3 bg-gradient-to-t from-indigo-950"/>

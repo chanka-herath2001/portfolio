@@ -1,5 +1,21 @@
 export const myProjects = [
   {
+    id: 12,
+    title: "SpendGuardian - Personal Finance Tracker",
+    description:
+      "A personal finance tracker with a modern UI, allowing users to manage budgets, track expenses, and visualize spending patterns.",
+    subDescription: [
+      "This website allows users to be able to upload their excel files and it will automatically parse the data and visualize it in a user-friendly way. It is also created with a simple UI which allows any user with any experience level to be able to use." 
+    ],
+    href: "https://spendguardian.online",
+    logo: "/assets/projects/spendguardian.png",
+    image: "/assets/projects/spendguardian.png",
+    tags: [
+      { id: 1, name: "React", path: "/assets/logos/react.svg" },
+      { id: 2, name: "Node.js", path: "/assets/logos/node.svg" },
+    ],
+  },
+  {
     id: 11,
     title: "ENOTH Website - Startup Fashion Brand Website",
     description:
